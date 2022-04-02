@@ -1,7 +1,7 @@
-# presentation_slides
-presentation_slides created by reveal.js
+# reveal_js_trial_slides
+reveal_js_trial_slides created by reveal.js
 
-URL:https://hiroshi-asakawa-litalico.github.io/presentation_slides/
+URL:https://hiroshi-asakawa-litalico.github.io/reveal_js_trial_slides/
 
 更新手順
 - localのreveal.jsディレクトリで作業してmarkdown編集
